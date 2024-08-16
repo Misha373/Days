@@ -1,0 +1,14 @@
+C:\Users\temat\source\repos\Days\Days\bin\Debug\net8.0\Days.exe
+C:\Users\temat\source\repos\Days\Days\bin\Debug\net8.0\Days.deps.json
+C:\Users\temat\source\repos\Days\Days\bin\Debug\net8.0\Days.runtimeconfig.json
+C:\Users\temat\source\repos\Days\Days\bin\Debug\net8.0\Days.dll
+C:\Users\temat\source\repos\Days\Days\bin\Debug\net8.0\Days.pdb
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.AssemblyInfoInputs.cache
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.AssemblyInfo.cs
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.csproj.CoreCompileInputs.cache
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.dll
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\refint\Days.dll
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.pdb
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\Days.genruntimeconfig.cache
+C:\Users\temat\source\repos\Days\Days\obj\Debug\net8.0\ref\Days.dll
